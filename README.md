@@ -3,7 +3,7 @@
 
 <br/>
 
-#### 강의링크
+#### 🔗 강의링크
 - [귀찮은건 이제 그만 매크로 만들기](https://me2.do/5eGPCFR8)
 
 <br/>
@@ -39,13 +39,14 @@
 
 
 <br/>
-## 🐞 Issue Report
+
+#### 🐞 Issue Report
 
 버그를 발견한다면, [Issues](https://github.com/seungdeok/classu-webhook-example/issues)에 등록해주세요.
 
 <br/>
 
-## 🙋🏻‍♂️ Question
+#### 🙋🏻‍♂️ Question
 
 질문은 강의 내 건의사항을 통해 부탁드립니다.
 
